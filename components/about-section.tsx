@@ -5,9 +5,9 @@ const profileData = [
   { label: "거주지", value: "경상북도 안동시" },
   { label: "MBTI", value: "ISTP" },
   { label: "", value: "" },
-  { label: "chess", value: "https://www.chess.com/member/chieuk/stats" },
+  { label: "chess", value: "chess.com/member/chieuk/stats" },
   { label: "", value: "" },
-  { label: "tetrio", value: "https://ch.tetr.io/u/chieuk" },
+  { label: "tetrio", value: "ch.tetr.io/u/chieuk" },
 ]
 
 export function AboutSection() {

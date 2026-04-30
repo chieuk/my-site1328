@@ -2,17 +2,12 @@ import { Award } from "lucide-react"
 
 const awards = [
   {
-    title: "End Portal In Nether Speedrun - Minecraft",
+    title: "End Portal In Nether Speedrun",
     year: "1st",
     description: "https://www.speedrun.com/mcu/runs/z023r28m",
   },
   {
-    title: "Most Consecutive Four-Block Gap Jumps - Minecraft",
-    year: "1st",
-    description: "https://recordsetter.com/submit/review?pend=6c6a1e64-3da5-4851-88fc-e4c8a8a10b06",
-  },
-  {
-    title: "Any% (Version Change) - Minecraft",
+    title: "Any% (Version Change)",
     year: "2nd",
     description: "https://www.speedrun.com/mcu/runs/z02e0o4m",
   }

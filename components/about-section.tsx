@@ -4,6 +4,7 @@ const profileData = [
   { label: "학교", value: "안동중학교" },
   { label: "거주지", value: "경상북도 안동시" },
   { label: "MBTI", value: "ISTP" }
+  { label: "엄", value: "s"}
 ]
 
 export function AboutSection() {

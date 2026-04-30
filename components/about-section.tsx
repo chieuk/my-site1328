@@ -3,11 +3,7 @@ const profileData = [
   { label: "혈액형", value: "A+" },
   { label: "학교", value: "안동중학교" },
   { label: "거주지", value: "경상북도 안동시" },
-  { label: "MBTI", value: "ISTP" },
-  { label: "", value: "" },
-  { label: "chess", value: "chess.com/member/chieuk/stats" },
-  { label: "", value: "" },
-  { label: "tetrio", value: "ch.tetr.io/u/chieuk" },
+  { label: "MBTI", value: "ISTP" }
 ]
 
 export function AboutSection() {
